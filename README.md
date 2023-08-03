@@ -16,7 +16,7 @@ Requirement Analysis:
 7. Tour Guide Services
 8. Mobile-Friendly and Responsive Design
 9. Security and Privacy
-10. User Support and Communicatio
+10. User Support and Communication
 
 # Youtube Link: https://youtu.be/UjQl3OoaMps
 
